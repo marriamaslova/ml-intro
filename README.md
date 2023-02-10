@@ -2,18 +2,9 @@
 
 ## План курса
 
-* [Лекция 1: Введение в Machine Learning]()
-    * [slides](https://docs.google.com/presentation/d/1mP8lDUxZN4cmjo0DEMYlGJyYZqvdiRme/edit?usp=share_link&ouid=104738333044241386865&rtpof=true&sd=true)
-    * видео - в ТГ-чате в разделе Videos
-    * [домашка](https://colab.research.google.com/drive/1mlcEZ8xIgHZ89CvzhVAjxwHsuKobNdU7?usp=sharing)
-    * [форма для сабмита домашки](https://docs.google.com/forms/d/e/1FAIpQLSfxcby1XYD6D_59PXw6eW0YyqDdzUNto1mu4aifXFMjnlKt3A/viewform)
-    * [квиз1](#)
+* [Лекция 1: Введение в Machine Learning](https://github.com/ml-compling-2022-hse/ml-intro/tree/main/class1)
 
-* [Лекция 2: Градиентное обучение + Линейная Регрессия]()
-   * [slides](https://docs.google.com/presentation/d/1mP8lDUxZN4cmjo0DEMYlGJyYZqvdiRme/edit?usp=share_link&ouid=104738333044241386865&rtpof=true&sd=true)
-   * [notebook]()
-   * видео - в ТГ-чате в разделе Videos
-   * [домашка]()
+* [Лекция 2: Градиентное обучение + Линейная Регрессия](https://github.com/ml-compling-2022-hse/ml-intro/tree/main/class2)
 
 ## Подготовка к работе
 
