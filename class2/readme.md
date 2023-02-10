@@ -1,4 +1,4 @@
-## Занятие 2: Градиентное обучение + Линейная Регрессия
+## Занятие 2: Gradient descent + Linear Regression
 
    * [slides](https://docs.google.com/presentation/d/1mP8lDUxZN4cmjo0DEMYlGJyYZqvdiRme/edit?usp=share_link&ouid=104738333044241386865&rtpof=true&sd=true)
    * [notebook](https://github.com/ml-compling-2022-hse/ml-intro/blob/main/class2/Regression-Texts.ipynb)
