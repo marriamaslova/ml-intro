@@ -3,8 +3,8 @@
 ## План курса
 
 * [Лекция 1: Введение в Machine Learning](https://github.com/ml-compling-2022-hse/ml-intro/tree/main/class1)
-
 * [Лекция 2: Градиентное обучение + Линейная Регрессия](https://github.com/ml-compling-2022-hse/ml-intro/tree/main/class2)
+* [Лекция 3: Валидация. Переобучение. Регуляризация]()
 
 ## Подготовка к работе
 
