@@ -1,7 +1,7 @@
 # HW7
 
 В продолжение датасета на занятиии, будем кластеризовать отзывы в о винах.
-в этой директории лежит zip-архив, в котором есть датасет ```winemag-data-130k-v2.csv```
+В этой директории [лежит zip-архив](https://github.com/ml-compling-2022-hse/ml-intro/blob/main/class7/archive.zip), в котором есть датасет ```winemag-data-130k-v2.csv```
 Давайте на его основе датасета  сделаем кластеризацию.
 Также данные [можно скачать отсюда](https://www.kaggle.com/datasets/zynicide/wine-reviews)
 
